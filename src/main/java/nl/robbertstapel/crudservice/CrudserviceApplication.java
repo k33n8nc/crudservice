@@ -11,6 +11,4 @@ public class CrudserviceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CrudserviceApplication.class, args);
 	}
-
 }
-
