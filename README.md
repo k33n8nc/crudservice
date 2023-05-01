@@ -20,7 +20,7 @@ mvn spring-boot:run
 ```
 
 ```bash
-# With Maven wrapper (if you  don't have Maven installed.)
+# With Maven wrapper (if you  don't have Maven installed).
 mvnw spring-boot:run
 ```
 
