@@ -3,7 +3,7 @@
 This project is build with [Spring Boot](https://spring.io/projects/spring-boot) and [Maven](https://maven.apache.org/).
 
 ## Setup
-Clone repository to your machine:
+Clone the repository to your machine:
 
 ```bash
 git clone https://github.com/k33n8nc/crudservice.git app-name-here
