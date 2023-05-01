@@ -15,9 +15,4 @@ public class CrudRestController {
         return "This was watched and changed...";
     }
 
-    @GetMapping("/dev")
-    public String sayDev() {
-        return "This was dev and changed...";
-    }
-
 }
