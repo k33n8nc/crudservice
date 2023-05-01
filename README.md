@@ -15,8 +15,13 @@ Dependencies are managed with Maven.
 Start the development server on http://localhost:8080
 
 ```bash
-# maven
+# Without Maven wrapper (if you have Maven already installed).
 mvn spring-boot:run
+```
+
+```bash
+# With Maven wrapper (if you have don't have Maven installed.)
+mvnw spring-boot:run
 ```
 
 ## Production
